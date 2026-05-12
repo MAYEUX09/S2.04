@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="91dff343-bcd9-471a-99db-6478e9eb89c7" name="Changes" comment="Ajout de fichiers complémentaires">
-      <change beforePath="$PROJECT_DIR$/main.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/main.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="91dff343-bcd9-471a-99db-6478e9eb89c7" name="Changes" comment="Ajout d'un titre temporaire au document" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -90,7 +88,15 @@
       <option name="project" value="LOCAL" />
       <updated>1778592542564</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Ajout d'un titre temporaire au document">
+      <option name="closed" value="true" />
+      <created>1778593068625</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1778593068625</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,6 +106,7 @@
     <MESSAGE value="Test 2 avant publication" />
     <MESSAGE value="Test" />
     <MESSAGE value="Ajout de fichiers complémentaires" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ajout de fichiers complémentaires" />
+    <MESSAGE value="Ajout d'un titre temporaire au document" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ajout d'un titre temporaire au document" />
   </component>
 </project>
