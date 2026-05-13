@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="91dff343-bcd9-471a-99db-6478e9eb89c7" name="Changes" comment="Suppression de phrases déjà mis dans le notebook">
+    <list default="true" id="91dff343-bcd9-471a-99db-6478e9eb89c7" name="Changes" comment="Changement de description de requete en markdown">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/main.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,10 +37,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
     "git.auto.fetch.suggestion.counter": "1",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "preferences.pluginManager"
@@ -113,7 +117,15 @@
       <option name="project" value="LOCAL" />
       <updated>1778593626626</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Changement de description de requete en markdown">
+      <option name="closed" value="true" />
+      <created>1778656516801</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1778656516801</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,6 +149,7 @@
     <MESSAGE value="Ajout d'un titre temporaire au document" />
     <MESSAGE value="Modification du dictionnaire" />
     <MESSAGE value="Suppression de phrases déjà mis dans le notebook" />
-    <option name="LAST_COMMIT_MESSAGE" value="Suppression de phrases déjà mis dans le notebook" />
+    <MESSAGE value="Changement de description de requete en markdown" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changement de description de requete en markdown" />
   </component>
 </project>
