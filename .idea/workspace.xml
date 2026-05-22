@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="91dff343-bcd9-471a-99db-6478e9eb89c7" name="Changes" comment="ajout de description de chaque attribut">
+    <list default="true" id="91dff343-bcd9-471a-99db-6478e9eb89c7" name="Changes" comment="ajout du modèle relationnel de l'extension de la base de données">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/main.ipynb" afterDir="false" />
     </list>
@@ -253,7 +253,15 @@
       <option name="project" value="LOCAL" />
       <updated>1779259083943</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="ajout du modèle relationnel de l'extension de la base de données">
+      <option name="closed" value="true" />
+      <created>1779440148899</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1779440148899</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -291,6 +299,7 @@
     <MESSAGE value="Ajout du graphique et carte de controle" />
     <MESSAGE value="ajout" />
     <MESSAGE value="ajout de description de chaque attribut" />
-    <option name="LAST_COMMIT_MESSAGE" value="ajout de description de chaque attribut" />
+    <MESSAGE value="ajout du modèle relationnel de l'extension de la base de données" />
+    <option name="LAST_COMMIT_MESSAGE" value="ajout du modèle relationnel de l'extension de la base de données" />
   </component>
 </project>
