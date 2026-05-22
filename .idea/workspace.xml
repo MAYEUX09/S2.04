@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="91dff343-bcd9-471a-99db-6478e9eb89c7" name="Changes" comment="ajout de description de chaque attribut">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/main.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +26,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/MAYEUX09/S204.git&quot;,
-    &quot;accountId&quot;: &quot;e0b56c81-8302-4177-8f4c-d843f9700503&quot;
+    &quot;accountId&quot;: &quot;73828f9d-9790-44d9-ba36-385395dc9413&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -69,7 +70,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-c59985aa861c-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.24374.152" />
+        <option value="bundled-python-sdk-b63d5a1f7c97-b61e75351b1f-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.22158.340" />
       </set>
     </attachedChunks>
   </component>
